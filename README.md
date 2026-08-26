@@ -10,6 +10,6 @@
 
 *Другие интересные проекты:*
 - [form-validation](https://github.com/BakulinT/form-validation) Валидация HTML-форм (TS)
-- [insales-gulp-minifier](https://github.com/BakulinT/insales-gulp-minifier) Моя сборка под разработку тем InSales
+- [insales-gulp-minifier](https://github.com/BakulinT/insales-gulp-minifier) Моя сборка под разработку тем InSales (Node.js)
 - [live-script](https://github.com/BakulinT/live-script) Демо версия скрипта сбора RUM (TS)
 - [insales-types](https://github.com/BakulinT/insales-types) Моя типизация для разработки на платформе InSales (TS)
